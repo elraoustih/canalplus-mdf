@@ -8,7 +8,7 @@
 package com.isograd.exercise;
 import java.util.*;
 
-public class IsoContest {
+public class IsoContest1 {
 
     public static void main(String[] argv) throws Exception {
         Scanner sc = new Scanner(System.in);
